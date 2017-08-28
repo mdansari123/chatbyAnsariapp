@@ -1,0 +1,26 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "This is the real time chat developed by Ansari!",
+  "main": "index.js",
+  "scripts": {
+    "test": "testchatbyansari"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdansari123/chatbyAnsariapp.git"
+  },
+  "keywords": [
+    "chatbyansari"
+  ],
+  "author": "Md Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdansari123/chatbyAnsariapp/issues"
+  },
+  "homepage": "https://github.com/mdansari123/chatbyAnsariapp#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
